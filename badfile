@@ -1,0 +1,51 @@
+print("Hello, World")
+r = 45
+t = 4
+print (r/t)
+message = "Shema Oh Israel, Adonai Eloheinu, Adonai echad"
+n = 7
+pi = 3.172
+print (message)
+print(n)
+print(pi)
+mile = 4.234
+print (mile * 3)
+print ('2' + '4')
+print ('5' * 5)
+print (message * 10)
+first = "Throat"
+second = "Wrabbler"
+print (first + second)
+percentage = (45 * 100)/60 # Computing the percentage of a minute
+print(percentage)
+type (79.9)
+print(type)
+print(79.9)
+import math
+math
+signal_power = 23.8
+noise_power = 13.60
+ratio = signal_power/noise_power
+decibles = 10 * math.log10(ratio)
+print(decibles)
+radians = 0.7
+height = math.sin(radians)
+print(height)
+degrees = 45
+radians = degrees/180 * math.pi
+print (radians)
+math.sin(radians)
+print(math.sin(radians))
+math.sqrt (2)/2
+print(math.sqrt(2)/2)
+x = 7
+degree = 28.0
+print (math.sin(degree/360 * 2 * math.pi))
+x = 5
+a = math.exp(math.log(x+1))
+print(a)
+def print_lyrics():
+    print("I'am a lumberjack, and I'm okay.")
+    print("I sleep all night and I work all day.")
+print_lyrics()
+
