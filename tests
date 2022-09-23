@@ -17,4 +17,4 @@
 
 3. Create a program that will receive input from a user about the size of the array, it will validate it
 using try-catch and validating the type and limits, then will create the sample 1, but using the provided
-size by the user
+size by the user 
